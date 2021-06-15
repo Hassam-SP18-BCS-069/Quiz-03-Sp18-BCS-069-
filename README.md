@@ -4,11 +4,7 @@
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/waleedbutt98/Q3_CS2AI/blob/master/Q3.ipynb)  
 
-<h1 style='text-align: center'> COMSATS University, Islamabad </h1>
-<h1 style='text-align: center'> Department of Computer Science </h1>
-<h1 style='text-align: center'> CSC483 - Topics in Computer Science II (Programming for Artificial Intelligence) </h1>
-<h2 style='text-align: center'> Quiz 03 </h2>
-<h2 style='text-align: center'> Submitted by: Waleed Butt SP18-BCS-170 </h2>
+
 
 ## Question
 Do the following in python. **Do not use python dependencies related to machine learning including keras, tensorflow or pytorch etc**. This should be implemented using simple matrix multiplication operations for which numpy is enough.  
